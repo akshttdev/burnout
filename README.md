@@ -1,6 +1,6 @@
 # 🏎️ Burnout Datathon - IEEE CSMUJ Submission
 
-## 🔥 Team: Your Team Name  
+## 🔥 Team: Team Rocket  
 Fastest lap predictions using an XGBoost Regressor + minimal feature engineering under 10 minutes.  
 Optimized for emergency deployment ⚡
 
