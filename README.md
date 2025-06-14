@@ -5,7 +5,7 @@ Fastest lap predictions using an XGBoost Regressor + minimal feature engineering
 Optimized for emergency deployment ⚡
 
 ## 📎 Kaggle Notebook Link  
-[🔗 View our notebook on Kaggle](https://www.kaggle.com/code/your-kaggle-link)
+[🔗 View our notebook on Kaggle]([https://www.kaggle.com/code/your-kaggle-link](https://www.kaggle.com/code/axshtt/burnout))
 
 ## 📂 Output File  
 Filename: `yourteam_output.csv`  
