@@ -8,7 +8,7 @@ Optimized for emergency deployment ⚡
 [🔗 View our notebook on Kaggle]([https://www.kaggle.com/code/your-kaggle-link](https://www.kaggle.com/code/axshtt/burnout))
 
 ## 📂 Output File  
-Filename: `yourteam_output.csv`  
+Filename: `teamrocket_output.csv`  
 ✅ Included in this repo and ready for direct submission.
 
 ---
@@ -16,7 +16,7 @@ Filename: `yourteam_output.csv`
 ## 📈 Model Summary
 
 - Base model: XGBoost Regressor
-- RMSE on validation: ~0.XXXX
+- RMSE on validation: ~5
 - Features:
   - Avg Speed, Grid Position, Track Temperature
   - Speed/Grid Ratio, Squared & Inverse Features
