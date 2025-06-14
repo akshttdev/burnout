@@ -89,10 +89,4 @@ submission = sample_submission.copy()
 submission['Lap_Time_Seconds'] = preds
 submission.to_csv('teamrocket_output.csv', index=False)
 
-print("📦 yourteam_output.csv ready to ship 🚚")
-💻 LET'S COOK FAST 🧪
-🧼 Cleaning real quick...
-📊 Features cooked: 47
-⚙️ Model go brrrrr...
-🏁 RMSE cooked: 5.0271
-📦 yourteam_output.csv ready to ship 🚚
+print("📦 teamrocket_output.csv ready to ship 🚚")
